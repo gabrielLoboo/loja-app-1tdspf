@@ -10,7 +10,7 @@ export default function page() {
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis perferendis aperiam necessitatibus vero placeat quia fugiat sequi molestiae ut vel ratione atque nobis, doloremque deleniti quisquam nulla voluptatum corporis. Sequi?</p>
             <p><Link href="/">Voltar...</Link></p>
         </div>
-        <figure>
+      <figure>
           <Image src="/img/calca.jpg" alt="Calça" width={640} height={575}/>
         </figure>
     </div>
