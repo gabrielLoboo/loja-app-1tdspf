@@ -6,7 +6,7 @@ export default function Cabecalho() {
             <h1>Meus Produtos</h1>
               <ul>
                 <li><Link href="/">Home</Link></li>
-                <li><Link href="/usuarios-git">Git-Users</Link></li>
+                <li><Link href="/consumo/eletro-view">Eletronicos</Link></li>
                 <li><Link href="/produtos/tenis">Tenis</Link></li>
                 <li><Link href="/produtos/calca">Calça</Link></li>
                 <li><Link href="/produtos/camisa">Camisa</Link></li>
